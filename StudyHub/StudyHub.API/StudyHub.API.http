@@ -1,0 +1,6 @@
+@StudyHub.API_HostAddress = http://localhost:5020
+
+GET {{StudyHub.API_HostAddress}}/api/
+Accept: application/json
+
+###
